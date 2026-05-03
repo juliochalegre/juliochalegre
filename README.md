@@ -2,8 +2,9 @@
 
 ### Desenvolvedor Web
 
-<div style= display:flex>
+
 <h3 align="left">Entre me contato</h3>
+<div style= display:flex>
 <p align="left">
 <a href="https://github.com/juliochalegre" target="blank"><img align="center" src="https://freesvg.org/img/Mail-Icon-White-on-Black.png" alt="juliochalegre" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/juliolucaschalegre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/juliolucaschalegre/" height="30" width="40" /></a>
